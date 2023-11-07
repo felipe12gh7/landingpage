@@ -1,4 +1,7 @@
-body {
+
+
+body{
+    background-image: url(imagens/minecraft-001.webp);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -14,21 +17,21 @@ body {
 img {
     max-width: 100%; 
     margin: 0 10px;
-    background-image: url(imagens/fundoroxo.jpeg);
+   
 }
 
 
 header {
-    background-color: chartreuse;
-    color: green;
+    background-color: rgb(127, 255, 0, 0.5);
+    color: white;
     text-align: center;
     padding: 20px 0;
 }
 
 
 footer {
-    background-color: chartreuse;
-    color: green;
+    background-color: rgb(128, 255, 0, 0.5);
+    color: white;
     text-align: center;
     padding: 43px ;
 }
