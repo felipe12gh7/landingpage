@@ -1,7 +1,8 @@
 
 
 body{
-    background-image: url(imagens/minecraft-001.webp);
+    background-image: url(imagens/feltro-marrom-terra-027--p.html);
+    background-color: indigo;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -22,7 +23,7 @@ img {
 
 
 header {
-    background-color: rgb(127, 255, 0, 0.5);
+    background-color: hsl(90, 100%, 50%);
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -30,12 +31,29 @@ header {
 
 
 footer {
-    background-color: rgb(128, 255, 0, 0.5);
+    background-color: hsl(90, 100%, 50%);
     color: white;
     text-align: center;
-    padding: 43px ;
+    padding: 64px ;
 }
 a{
   text-decoration: none; 
   color: black;
 }
+
+
+h1{
+
+color: aliceblue;
+}
+
+
+div{
+    color: aliceblue;
+    text-align: center;
+
+
+
+}
+
+
